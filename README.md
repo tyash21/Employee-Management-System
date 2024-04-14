@@ -15,7 +15,7 @@ Git (optional)
 Installation
 Clone the repository:
 Copy code
-git clone https://github.com/tyash21/EmployeeManagementSystem.git
+git clone github.com/tyash21/Employee-Management-System
 or download the ZIP file and extract it.
 
 # Navigate to the project directory:
